@@ -154,3 +154,8 @@ User
 🌐 14. LIVE SYSTEM
 https://blue-ocean.duckdns.org
 
+## 👨‍💻 Project Author
+**Name:** DevOps Cloud Engineer Abdellatif Mohamed Abdeldaim
+**Role:** Cloud & DevOps Engineer  
+
+
